@@ -1,0 +1,6 @@
+@book{texbook,
+  author = {Sandor Lehoczky and Richard Rusczyk},
+  year = {2006},
+  title = {The Art of Problem Solving, Vol. 1: The Basics},
+  publisher = {AoPS Incorporated}
+}
